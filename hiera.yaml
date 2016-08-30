@@ -3,4 +3,4 @@
 :hierarchy:
   - common
 :yaml:
-  :datadir: %{confdir}/environments/%{environment}/hieradata/
+  :datadir: "/etc/puppet/environments/%{environment}/hieradata/"
